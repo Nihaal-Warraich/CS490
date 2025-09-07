@@ -1,0 +1,2 @@
+Status: 200
+Response JSON: {"status": "success", "message": "Record created successfully", "recordId": "recy3gj8otzW8OVON"}
